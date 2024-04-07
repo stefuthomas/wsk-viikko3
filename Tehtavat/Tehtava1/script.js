@@ -1,4 +1,4 @@
-import { restaurantRow, restaurantModal } from "/Tehtavat/Tehtava1/components.js";
+import { restaurantRow, restaurantModal } from "/Tehtavat/Tehtava1/components1.js";
 
 const restaurants = [];
 
